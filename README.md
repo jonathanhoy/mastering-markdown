@@ -2,15 +2,11 @@
 
 ## Paragraphs and Text Decoration
 
----
-
 _Jonathan_ is really *cool*.
 
 __Jonathan__ is really __cool__.
 
 ## Links in Markdown
-
----
 
 jonathanhoy.com
 
@@ -34,8 +30,6 @@ or
 
 ## Unordered List
 
----
-
 * milk
 * eggs
 * bread
@@ -49,8 +43,6 @@ or
 - bread
 
 ## Ordered List
-
----
 
 1. step 1
   * indented
@@ -66,8 +58,6 @@ or
 
 ## Blockquotes
 
----
-
 > quote here
 > 
 > another **line**
@@ -77,8 +67,6 @@ or
 > -**Yoda**
 
 ## Codeblocks
-
----
 
 Here is my code:
 
@@ -102,8 +90,6 @@ var x = 100;
 ```
 
 ## Tables
-
----
 
 |Dog's Name|Dog's Age|Dog Type|
 |:---|:---:|---:|
